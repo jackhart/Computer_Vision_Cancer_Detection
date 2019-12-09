@@ -14,4 +14,4 @@ Review/run the code in this order.
 Poster for paper/analsis can be found in this repo [here](https://github.com/jackhart/Computer_Vision_Cancer_Detection/blob/master/poster.pdf)
 
 ## Paper 
-The final write up of the analysis can be found in this repo [here]()
+The final write up of the analysis can be found in this repo [here](https://github.com/jackhart/Computer_Vision_Cancer_Detection/blob/master/ANLY590_final_writeup.pdf)
